@@ -7,7 +7,7 @@ categories: jekyll update
 And so it begins...
 =================
 
-  I have it on [good athority](john.do) that blogging, in short, is a good thing that should be done frequently and consistently.
+  I have it on [good athority](johnsaddington.com) that blogging, in short, is a good thing that should be done frequently and consistently.
 I've never been what I would consider the "blogging type", which is not to say that I have any real idea of what that
 would even mean, just that i didn't want to participate. There was never really anything I wanted to share with the
 world. That's what you do when you put your thoughts and ideas out the on the big scary interwebs.
